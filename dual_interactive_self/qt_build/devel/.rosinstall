@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lmn/catkin_ws/src/dual_arm_resources/dual_interactive_self/qt_build/devel/setup.sh

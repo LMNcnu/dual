@@ -1,0 +1,8 @@
+prefix=/home/lmn/catkin_ws/src/dual_arm_resources/dual_interactive_self/qt_build/devel
+
+Name: dual_interactive_self
+Description: Description of dual_interactive_self
+Version: 0.11.11
+Cflags: 
+Libs: -L/home/lmn/catkin_ws/src/dual_arm_resources/dual_interactive_self/qt_build/devel/lib 
+Requires: moveit_core moveit_ros_planning_interface interactive_markers

@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: dual_interactive_self
+Description: Description of dual_interactive_self
+Version: 0.11.11
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: moveit_core moveit_ros_planning_interface interactive_markers

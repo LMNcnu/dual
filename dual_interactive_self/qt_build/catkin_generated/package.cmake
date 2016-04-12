@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "dual_interactive_self")
+set(dual_interactive_self_MAINTAINER "LMN <1169940335@qq.com>")
+set(dual_interactive_self_DEPRECATED "")
+set(dual_interactive_self_VERSION "0.11.11")
+set(dual_interactive_self_BUILD_DEPENDS "pluginlib" "moveit_core" "moveit_ros_planning_interface" "moveit_ros_perception" "interactive_markers" "cmake_modules" "roscpp" "rospy" "std_msgs" "message_generation")
+set(dual_interactive_self_RUN_DEPENDS "roscpp" "rospy" "std_msgs" "message_runtime" "pluginlib" "moveit_core" "moveit_fake_controller_manager" "moveit_ros_planning_interface" "moveit_ros_perception" "interactive_markers")
+set(dual_interactive_self_BUILDTOOL_DEPENDS "catkin")
